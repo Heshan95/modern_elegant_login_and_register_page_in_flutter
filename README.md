@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![Untitled design (4)](https://github.com/Heshan95/modern_elegant_login_and_register_page_in_flutter/assets/76845938/98b833a3-96d9-47fc-8d65-da604f507da5)
