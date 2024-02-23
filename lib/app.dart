@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:modern_elegant_login_and_register_page_in_flutter/features/authentication/screens/onboarding/onboading.dart';
+import 'package:modern_elegant_login_and_register_page_in_flutter/features/authentication/screens/onboarding/login/login.dart';
 import 'package:modern_elegant_login_and_register_page_in_flutter/util/theme/theme.dart';
 
 class App extends StatelessWidget {
@@ -13,7 +13,7 @@ class App extends StatelessWidget {
       themeMode: ThemeMode.system,
       theme: TAppTheme.lightTheme,
       darkTheme: TAppTheme.darkTheme,
-      home: const OnBoadingScreen(),
+      home: const LoginScreen(),
     );
   }
 }
